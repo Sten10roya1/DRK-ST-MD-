@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝙎-𝙏𝞢𝞜❟❛❟ 🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑",
+      "value": " 🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑",
       "required": true
     },
     "SESSION_ID": {
@@ -30,7 +30,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Asia/Karachi"
+      "value": "America/Port-au-Prince"
     },
     "READ_COMMAND": {
       "description": "Read bot cmds",
@@ -88,16 +88,16 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923072380380"
+      "value": "50931461936"
     },
 
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "public"
+      "value": "private"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "BYTE",
+      "value": "𝙎-𝙏𝞢𝞜",
       "required": false
     },
     "PACK_AUTHER": {
