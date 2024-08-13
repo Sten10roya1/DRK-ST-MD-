@@ -29,7 +29,7 @@
 
 1. **Première étape** : Obtenez votre [`CODE DE PAIRAGE`](https://byte-session.vercel.app/).
 2. **Ensuite** : Allez dans WhatsApp > Trois points > Appareils connectés.
-3. **Cliquez sur** [`FORK`](https://github.com/HyHamza/BYTE-MD/fork) pour cloner le projet.
+3. **Cliquez sur** [`FORK`](https://github.com/Sandro-sten/DRK-ST-MD-/fork) pour cloner le projet.
 4. **Déployez sur** [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/HyHamza/BYTE-MD) (optionnel, recommandé d'attendre).
 
 ## Méthodes de connexion
