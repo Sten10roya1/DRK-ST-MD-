@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/CREATED%20BY-🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑-blue?style=for-the-badge" alt="Créé par ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜">
 </p>
 
+<p align="center">
+  <img src="https://telegra.ph/file/3e1d82ab139d29975cad4.jpg" alt="Image Visuelle" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</p>
+
 <strong>Note importante : Ne déployez pas ce bot sur HEROKU pour l'instant.</strong>
 
 <p align="center">
