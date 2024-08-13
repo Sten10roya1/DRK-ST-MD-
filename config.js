@@ -77,7 +77,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ",",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "*Powered By 𝙎-𝙏𝞢𝞜*",
+  caption: process.env.CAPTION || "*Powered By 𝙎1-𝙏𝞢𝞜*",
   author: process.env.PACK_AUTHER || "DRK-ST-MD ",
   packname: process.env.PACK_NAME || "𝙎-𝙏𝞢𝞜",
   botname: process.env.BOT_NAME || "DRK-ST-MD",
